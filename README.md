@@ -1,2 +1,2 @@
-# ITSpecialist_KUJIRA_CAFE
-WEBプログラミング自習にて作成したサイトです。
+## サンプルサイト
+<a href="https://book.studio947.net/book-samples/surasura2/index.html">KUJIRA CAFE</a>
